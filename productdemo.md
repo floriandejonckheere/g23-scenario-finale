@@ -5,11 +5,25 @@
 
 ## DOTNET
 
+### Intro
+
+- Drie vrienden willen vrijwilligerswerk doen en gebruiken het Goed Bezig platform via hun school. Een iemand is nieuw, een iemand is al een geregistreerde Give A Day vrijwilliger en de laatsten is geregistreerd op Goed Bezig. Ze zitten allemaal rond dezelfde computer.
+
+### Mark typt fout URL (error 404)
+
+- Maakt meteen al typfout: error 404 page
+
 ### Registratie mark@hogent.be
 
-- Overweldigend: Mark weet eigenlijk niets van dit platform af, dus zal hij het overlaten aan zijn vrienden
+- Overweldigend: registratie -> volledig Goed Bezig vrijwilliger met alle functionaliteit.
+- Geen transitie van Give A Day platform (=beperkter menu).
 
-### Login volunteer (op computer van een vriend)
+### Login volunteer (Dashboard Accessdenied)
+
+- Vriend zegt om naar 'Dashboard' te gaan.
+- Goede reden waarom dit niet in het menu staat.
+
+### Login volunteer
 
 - Menu: beperkt, enkel wat nodig is voor een volunteer
 - Volunteer wil direct bij groep van vriend
@@ -38,15 +52,14 @@
 
 ### Login owner_approved (ervaren gebruiker)
 
-- Verkorte motivatie op dashboard
+- Verkorte motivatie op dashboard. Dashboard bevat enkel de nodige functionaliteit.
 - Ga naar Groepen#3 (mogelijk om details open groepen te bekijken)
-- Mistypt url '/dashbord' => error page
 - Algemeen zicht van Dashboard
 
 ### Verzend Label
 
-- Externe organisaties
-- Zijn een vereenvoudigde nabootsing van de pagina's op het Giva a Day platform.
+- Klik 'Label toekennen'
+- Externe organisaties zijn een vereenvoudigde nabootsing van de pagina's op het Giva a Day platform.
 - Verzend label naar 'OCMW Brugge'
 
 ### Login in op Outlook
