@@ -7,16 +7,18 @@
 
 ### Intro
 
-- Drie vrienden willen vrijwilligerswerk doen en gebruiken het Goed Bezig platform via hun school. Een iemand is nieuw, een iemand is al een geregistreerde Give A Day vrijwilliger en de laatsten is geregistreerd op Goed Bezig. Ze zitten allemaal rond dezelfde computer.
+- Drie vrienden willen vrijwilligerswerk doen en gebruiken het Goed Bezig platform via hun school. Een iemand is nieuw, een iemand is al een geregistreerde Give A Day vrijwilliger en de laatsten is geregistreerd op Goed Bezig. Mark begint al enthousiast voordat zijn vrienden arriveren.
 
 ### Mark typt fout URL (error 404)
 
 - Maakt meteen al typfout: error 404 page
+- Ga naar Home
 
 ### Registratie mark@hogent.be
 
 - Overweldigend: registratie -> volledig Goed Bezig vrijwilliger met alle functionaliteit.
-- Geen transitie van Give A Day platform (=beperkter menu).
+- Geen transitie van Give A Day platform (= geen beperkt menu).
+- Wacht op vrienden. Log uit.
 
 ### Login volunteer (Dashboard Accessdenied)
 
