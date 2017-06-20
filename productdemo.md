@@ -135,3 +135,22 @@
 - Open 'HoGent Rebels'
 - Beschrijf layout + lijst
 - Wijs lector toe
+
+## JavaWeb
+**Groepoverview**
+- Inloggen met preben.leroy@gmail.com (wachtwoord: test123)
+- Beschrijven lay-out
+- Tonen overzicht groepsleden
+- Klik evalueer bij Jasper
+
+**Peerassessment**
+- Beschrijven vragen en score
+- Vul 3 vragen in
+- Opslaan
+- Keer terug naar evaluatiepagina van Jasper
+- Verder invullen
+- Opslaan
+
+**Groepoverview**
+- Beschrijven melding voltooid
+- Kunnen ingevulde peer bekijken (zonder aanpassen)
