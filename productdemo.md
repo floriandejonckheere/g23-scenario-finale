@@ -5,23 +5,23 @@
 
 ## DOTNET
 
-1. Registratie mark@hogent.be
+### Registratie mark@hogent.be
 
 - Overweldigend: Mark weet eigenlijk niets van dit platform af, dus zal hij het overlaten aan zijn vrienden
 
-2. Login volunteer (op computer van een vriend)
+### Login volunteer (op computer van een vriend)
 
 - Menu: beperkt, enkel wat nodig is voor een volunteer
 - Volunteer wil direct bij groep van vriend
 - Zoeken tussen tientallen organisaties: 'HoGent'
 - Registreer
 
-3. Maak groep
+### Maak groep
 
 - 'Maak groep' button (De Bierdrinkers)
 - Invite mark@hogent.be
 
-4. Login mark@hogent.be
+### Login mark@hogent.be
  
 - Wel al geregistreerd bij organisatie, dus volledig menu
 - Volledige navbar uitleggen
@@ -29,37 +29,37 @@
 - Join groep via invite
 - Dashboard (meteen duidelijk wat er nog kan gebeuren, nl. motivatie)
 
-5. Motivatie invoeren
+### Motivatie invoeren
 
 - OCMW Brugge
 - Incompleet opslaan
 - Contactpersoon wordt gebruikt ter uitnodiging van GiveADay platform
 - Verzenden
 
-6. Login owner_approved (ervaren gebruiker)
+### Login owner_approved (ervaren gebruiker)
 
 - Verkorte motivatie op dashboard
 - Ga naar Groepen#3 (mogelijk om details open groepen te bekijken)
 - Mistypt url '/dashbord' => error page
 - Algemeen zicht van Dashboard
 
-7. Verzend Label
+### Verzend Label
 
 - Externe organisaties
 - Zijn een vereenvoudigde nabootsing van de pagina's op het Giva a Day platform.
 - Verzend label naar 'OCMW Brugge'
 
-8. Login in op Outlook
+### Login in op Outlook
  
 - Toon mail
 - Ga terug naar OCMW detail pagina
 
-9. Bekend maken
+### Bekend maken
 
 - OCMW Brugge
 - Details pagina GB organisatie
 
-10. Maak activiteit
+### Maak activiteit
 
 - Pannekoeken bakken (meerdere weken, dus GEEN evenement)
 
